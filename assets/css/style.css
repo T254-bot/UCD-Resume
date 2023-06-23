@@ -69,12 +69,16 @@ header {
     font-size: 0;
 }
 
-nav {
+#nav {
     margin: 0;
 }
 
 #nav li {
     font-size: 14px;
+    padding: 0;
+}
+
+.navcolumn {
     padding: 0;
 }
 
